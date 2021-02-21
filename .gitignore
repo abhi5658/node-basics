@@ -1,3 +1,7 @@
+big.file*
+*.gz
+*.zz
+
 # Logs
 logs
 *.log
